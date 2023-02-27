@@ -1,16 +1,33 @@
-### Hi there 👋
+Hi there! 👋
 
-<!--
-**dev-apiarist/dev-apiarist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer and APIarist based in Jamaica 🇯🇲. I specialize in HTML, CSS, SCSS, JavaScript, SQL, Python, and Flutter, and have experience in UX/UI design and data analysis.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌐 HTML5
+    🎨 CSS3/SCSS
+    🚀 JavaScript/TypeScript
+    🅰️ Angular
+    💻 MEAN Stack
+    🗃️ SQL
+    🐍 Python (NumPy, Pandas, Matplotlib)
+    📱 Flutter
+
+Interests:
+
+    🐝 Beekeeping
+    🎨 Design
+    🧘‍♀️ Meditation
+
+Achievements:
+
+    🖥️ Designed and built several responsive websites
+    📊 Analyzed large datasets and produced insightful visualizations
+    📱 Developed cross-platform mobile applications
+
+Currently Learning:
+
+    💻 PHP
+    🚀 Laravel
+
+🏆 “The best way to predict the future is to create it.” – Peter Drucker 🚀
