@@ -29,5 +29,6 @@ Currently Learning:
 
     💻 PHP
     🚀 Laravel
+    📈 Vue.js
 
 🏆 “The best way to predict the future is to create it.” – Peter Drucker 🚀
